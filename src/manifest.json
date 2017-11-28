@@ -1,6 +1,6 @@
 {
-  "name": "Ionic",
-  "short_name": "Ionic",
+  "name": "gae-init-mobile",
+  "short_name": "gae-init-mobile",
   "start_url": "index.html",
   "display": "standalone",
   "icons": [{
